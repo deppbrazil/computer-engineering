@@ -1,7 +1,7 @@
 # University #
 ## B.S. Computer Engineering ##
 
-## Disciplinas ##
+### Disciplinas ###
 * Homem, Cultura e Sociedade_60h
 * Geometria Analítica e Álgebra Vetorial_60h
 * Engenharia e Profissão_60h
@@ -54,7 +54,7 @@
 
 * Optativa_60h
 
-## Estudo Dirigido ##
+### Estudo Dirigido ###
 * ED - Responsabilidade Social_48h
 * ED - Ciência, Tecnologia e Sociedade_48h
 * ED - Democracia, Ética e Cidadania_48h
@@ -66,9 +66,9 @@
 * ED - Funções_48h
 * ED - Projeto de Vida_48h
 
-## Estágio ##
+### Estágio ###
 * Est. Cur. Engenharia_200h
 
-## TCC ##
+### TCC ###
 * Trabalho de Conclusão de Curso I_60h
 * Trabalho de Conclusão de Curso II_60h

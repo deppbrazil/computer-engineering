@@ -1,7 +1,7 @@
-# University #
-## B.S. Computer Engineering ##
+# Anhanguera Educacional #
+## Bacharel em Engenharia de Computação ##
 
-### Background ###
+### Disciplinas ###
 * Homem, Cultura e Sociedade `60hs`
 * Geometria Analítica e Álgebra Vetorial `60hs`
 * Engenharia e Profissão `60hs`
@@ -54,7 +54,7 @@
 
 * Optativa `60hs`
 
-### ED´s ###
+### Estudo Dirigito - Atividades complementares ###
 * ED - Responsabilidade Social `48hs`
 * ED - Ciência, Tecnologia e Sociedade `48hs`
 * ED - Democracia, Ética e Cidadania `48hs`
@@ -66,9 +66,9 @@
 * ED - Funções `48hs`
 * ED - Projeto de Vida `48hs`
 
-### Internship ###
-* Engineering course internship `200hs`
+### Estágio ###
+* Estágio no curso de Engenharia `200hs`
 
 ### TCC ###
-* Completion of course work I `60hs`
-* Completion of course work II `60hs`
+* Trabalho de conclusão de curso I `60hs`
+* Trabalho de conclusão de curso II `60hs`
